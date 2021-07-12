@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TC_Task</string>
+    <string name="homePageTitle">Totality Corp</string>
+    <string name="buttonHome">Home</string>
+    <string name="buttonEdit">Edit</string>
+    <string name="select_image">Select Image</string>
+    <string name="capture_image">Capture Image</string>
+</resources>
